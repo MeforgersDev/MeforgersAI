@@ -90,4 +90,4 @@ Our long-term vision includes:
 
 All technologies, designs, and intellectual property associated with **Meforgers** are proprietary unless explicitly stated otherwise.
 
-**© Meforgers — All rights reserved.**
+**© Meforgers - All rights reserved.**
